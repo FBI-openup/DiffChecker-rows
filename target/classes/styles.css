@@ -1,0 +1,19 @@
+.highlight {
+    -rtfx-background-color: yellow;
+}
+
+.accepted {
+    -rtfx-background-color: green;
+}
+
+.rejected {
+    -rtfx-background-color: red;
+}
+
+.counter_proposal {
+    -rtfx-background-color: orange;
+}
+
+background-color {
+    -rtfx-background-color: white;
+}
